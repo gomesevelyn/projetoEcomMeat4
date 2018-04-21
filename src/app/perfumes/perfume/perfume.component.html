@@ -1,0 +1,13 @@
+<a [routerLink]="['/perfume',perfume.id]">
+  <div class="place-info-box">
+    <span class="place-info-box-icon"><img [src]="perfume.imagePath" /></span>
+
+    <div class="place-info-box-content">
+      <span class="place-info-box-text"> {{perfume.name}}</span>
+      <span class="place-info-box-star"><i class="fa fa-star"></i> {{perfume.rating}}</span>
+      <span class="place-info-box-detail">{{perfume.category}}</span>
+      <span class="place-info-box-detail">{{perfume.deliveryEstimate}}</span>
+    </div>
+    <!-- /.info-box-content -->
+  </div>
+</a>

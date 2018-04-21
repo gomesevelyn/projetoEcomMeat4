@@ -1,0 +1,416 @@
+{
+  "perfumes": [
+    {
+      "id": 1,
+      "name": "J'Adore da Dior",
+      "category": "Lançado em 2000",
+      "deliveryEstimate": "Ranking: 1",
+      "rating": 10.0,
+      "imagePath": "assets/img/perfumes/jadore.jpg",
+      "about": "O J’adore é um dos campeões de elogios e se tornou um dos queridinhos das mulheres. O perfume, que é pura homenagem à elegância e ao poder feminino, recebeu vários prêmios quando foi lançado, em 2000.",
+      "hours": ""
+    },
+    {
+      "id": 2,
+      "name": "Euphoria da Calvin Klein",
+      "category": "Lançado em 2005",
+      "deliveryEstimate": "Ranking: 2",
+      "rating": 9.0,
+      "imagePath": "assets/img/perfumes/euphoria.png",
+      "about": "Para quem quer demonstrar segurança e independência, a sugestão é o Euphoria, da Calvin Klein. Muitos definem esse perfume como luxuoso sem arrogância. Também recebeu prêmios no lançamento em 2005 e hoje é um dos perfumes mais vendidos no mundo.",
+      "hours": ""
+    },
+    {
+      "id": 3,
+      "name": "Miss Dior da Dior",
+      "category": "Lançado em 2006",
+      "deliveryEstimate": "Ranking: 3",
+      "rating": 8.0,
+      "imagePath": "assets/img/perfumes/MissDior.png",
+      "about": "Outro Dior que arranca suspiros por aí é o Miss Dior. Lançado há quase cinco anos, esse é um “novo clássico”, se pudéssemos defini-lo assim. Com um tom jovial, é a fragrância perfeita para mulheres apaixonadas, sonhadoras e elegantes.",
+      "hours": ""
+    },
+    {
+      "id": 4,
+      "name": "212 VIP Rosé de Carolina Herrera",
+      "category": "Lançado em 2014",
+      "deliveryEstimate": "Ranking: 4",
+      "rating": 7.0,
+      "imagePath": "assets/img/perfumes/212Rose.png",
+      "about": "O 212 VIP Rosé da grife Carolina Herrera é o tipo de perfume que não passa despercebido. Além de uma boa fixação, essa versão da linha 212 tem uma fragrância floral amadeirada bem marcante.",
+      "hours": ""
+    },
+    {
+      "id": 5,
+      "name": "Lady Million Privé de Paco Rabanne",
+      "category": "Lançado em 2016",
+      "deliveryEstimate": "Ranking: 5",
+      "rating": 6.0,
+      "imagePath": "assets/img/perfumes/ladyMillion.png",
+      "about": "O novíssimo Lady Million Privé de Paco Rabanne, lançado ano passado, é uma nova versão da linha Million, reverenciada como divisora de águas da marca. Diferente do Lady Million, que é um floral aberto, o privé é uma fragrância oriental amadeirada.",
+      "hours": ""
+    },
+    {
+      "id": 6,
+      "name": "Poison Girl da Dior",
+      "category": "Lançado em 2016",
+      "deliveryEstimate": "Ranking: 6",
+      "rating": 5.0,
+      "imagePath": "assets/img/perfumes/poison.png",
+      "about": "Sabe aquele perfume que toda mulher precisa ter na bolsa? O Poison Girl da Dior é um deles. O perfume acaba de completar um ano de lançamento e já se tornou sucesso entre as jovens superconectadas, que querem se sentir livres e sedutoras.",
+      "hours": ""
+    },
+    {
+      "id": 7,
+      "name": "CH de Carolina Herrera",
+      "category": "Lançado em 2016",
+      "deliveryEstimate": "Ranking: 7",
+      "rating": 4.0,
+      "imagePath": "assets/img/perfumes/CH.png",
+      "about": "Sabe aquele perfume que toda mulher precisa ter na bolsa? O Poison Girl da Dior é um deles. O perfume acaba de completar um ano de lançamento e já se tornou sucesso entre as jovens superconectadas, que querem se sentir livres e sedutoras.",
+      "hours": ""
+    },
+    {
+      "id": 8,
+      "name": "Decadence de Marc Jacobs",
+      "category": "Lançado em 2016",
+      "deliveryEstimate": "Ranking: 8",
+      "rating": 3.0,
+      "imagePath": "assets/img/perfumes/Decadence.png",
+      "about": "As mulheres que querem demonstrar personalidade podem apostar no Decadence da grife Marc Jacobs, que recebeu o prêmio de Fragrância do Ano e Melhor Embalagem. É perfeito para usar à noite e em ocasiões especiais, já que oferece uma sensação quente e sofisticada.",
+      "hours": ""
+    },
+    {
+      "id": 9,
+      "name": "Light Blue da Dolce & Gabbana",
+      "category": "Lançado em 2016",
+      "deliveryEstimate": "Ranking: 9",
+      "rating": 2.0,
+      "imagePath": "assets/img/perfumes/DG.png",
+      "about": "Um perfume que é a cara do verão. Assim podemos definir o Light Blue da Dolce & Gabbana. Mesmo com tons leves e refrescantes, tem uma fragrância intensa. Recebeu o prêmio Hall da Fama e sua embalagem reflete seu conteúdo – leveza e uma pegada cítrica.",
+      "hours": ""
+    },
+    {
+      "id": 10,
+      "name": "Good Girl de Carolina Herrera",
+      "category": "Lançado em 2016",
+      "deliveryEstimate": "Ranking: 10",
+      "rating": 1.0,
+      "imagePath": "assets/img/perfumes/Good_Girl.png",
+      "about": "Para finalizar nossa lista de perfumes importados femininos, apresentamos o Good Girl, lançado ano passado pela grife Carolina Herrera. O frasco no formato de um poderoso salto agulha tem chamado muita atenção. Mas não é só a aparência, já que a fragrância remete a várias atitudes desejáveis pelo universo feminino: irreverência, sensualidade, elegância e independência.",
+      "hours": ""
+    }
+
+
+  ],
+  "compras": [
+    {
+      "id": "J'Adore da Dior",
+      "imagePath": "assets/img/foods/cupcake.png",
+      "name": "Cup Cake",
+      "description": "Cup Cake recheado de Doce de Leite",
+      "price": 8.7,
+      "perfumeId": "bread-bakery"
+    },
+    {
+      "id": "Euphoria da Calvin Klein",
+      "imagePath": "assets/img/foods/donut.png",
+      "name": "Donut",
+      "description": "Coberto com chantilly",
+      "price": 2.5,
+      "perfumeId": "bread-bakery"
+    },
+    {
+      "id": "Miss Dior da Dior",
+      "imagePath": "assets/img/foods/bread.png",
+      "name": "Pão Artesanal Italiano",
+      "description": "Pão artesanal com queijos italianos",
+      "price": 15.9,
+      "perfumeId": "bread-bakery"
+    },
+    {
+      "id": "212 VIP Rosé de Carolina Herrera",
+      "imagePath": "assets/img/foods/burger.png",
+      "name": "Classic Burger",
+      "description": "O clássico. Não tem como errar.",
+      "price": 18.5,
+      "perfumeId": "burger-house"
+    },
+    {
+      "id": "Lady Million Privé de Paco Rabanne",
+      "imagePath": "assets/img/foods/fries.png",
+      "name": "Batatas Fritas",
+      "description": "Batatas fritas crocantes",
+      "price": 5.5,
+      "perfumeId": "burger-house"
+    },
+    {
+      "id": "Poison Girl da Dior",
+      "imagePath": "assets/img/foods/coke.png",
+      "name": "Refrigerante",
+      "description": "O refri mais gelado da cidade.",
+      "price": 4.5,
+      "perfumeId": "burger-house"
+    },
+    {
+      "id": "CH de Carolina Herrera",
+      "imagePath": "assets/img/foods/capp.png",
+      "name": "Cappuccino com Chantilly",
+      "description": "Tradicional cappuccino com chantilly",
+      "price": 9.9,
+      "perfumeId": "coffee-corner"
+    },
+    {
+      "id": "Decadence de Marc Jacobs",
+      "imagePath": "assets/img/foods/espreso.png",
+      "name": "Super Espreso",
+      "description": "Café espresso duplo. ",
+      "price": 12.5,
+      "perfumeId": "coffee-corner"
+    },
+    {
+      "id": "Light Blue da Dolce & Gabbana",
+      "imagePath": "assets/img/foods/starb.png",
+      "name": "Starbucks Copycat",
+      "description": "O mais pedido da casa. O verdadeiro café americano pura água.",
+      "price": 15.6,
+      "perfumeId": "coffee-corner"
+    },
+    {
+      "id": "zlasagna",
+      "imagePath": "assets/img/foods/zlasagna.png",
+      "name": "Lasagna de Zucchini",
+      "description": "Lasagna deliciosa que se salva por causa do queijo",
+      "price": 14.9,
+      "perfumeId": "green-food"
+    },
+    {
+      "id": "greensandwich",
+      "imagePath": "assets/img/foods/greensandwich.png",
+      "name": "Sanduíche de Frango",
+      "description": "Frango grelhado e salada",
+      "price": 10.5,
+      "perfumeId": "green-food"
+    },
+    {
+      "id": "ceasar",
+      "imagePath": "assets/img/foods/ceasar.png",
+      "name": "Salada Ceasar",
+      "description": "Clássica salada ceasar.",
+      "price": 33.9,
+      "perfumeId": "green-food"
+    },
+    {
+      "id": "sunday",
+      "imagePath": "assets/img/foods/sunday.png",
+      "name": "Mega Sunday",
+      "description": "Sunday com várias bolas de sorvete a sua escolha",
+      "price": 21.5,
+      "perfumeId": "ice-cream"
+    },
+    {
+      "id": "chocpop",
+      "imagePath": "assets/img/foods/chocpop.png",
+      "name": "Picolé de Brigadeiro",
+      "description": "Picolé de brigadeiro recheado com côco.",
+      "price": 8.5,
+      "perfumeId": "ice-cream"
+    },
+    {
+      "id": "icestd.png",
+      "imagePath": "assets/img/foods/icestd.png",
+      "name": "Sorvete Simples",
+      "description": "Clássico sorvete de rua onde todos os sabores são idênticos.",
+      "price": 1.5,
+      "perfumeId": "ice-cream"
+    },
+    {
+      "id": "cup",
+      "imagePath": "assets/img/foods/cup.png",
+      "name": "Cup Cake de Choc. Branco",
+      "description": "Cup Cake de chocolate branco",
+      "price": 5.5,
+      "perfumeId": "tasty-treats"
+    },
+    {
+      "id": "straw",
+      "imagePath": "assets/img/foods/straw.png",
+      "name": "Bolo de Morango",
+      "description": "Bolo recheado e coberto com morangos",
+      "price": 40.5,
+      "perfumeId": "tasty-treats"
+    },
+    {
+      "id": "cake",
+      "imagePath": "assets/img/foods/cake.png",
+      "name": "Fatia de Bolo",
+      "description": "Fatia de bolo de morango",
+      "price": 5.9,
+      "perfumeId": "tasty-treats"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Julia",
+      "date": "2017-01-23T18:25:43",
+      "rating": 4.5,
+      "comments": "Tudo muito bom, entrega no tempo certo",
+      "perfumeId": "bread-bakery"
+    },
+    {
+      "name": "Aline",
+      "date": "2016-12-12T18:25:43",
+      "rating": 3,
+      "comments": "NÃO recomendo. O recheio é só um creme, não tem camarão e nem carne",
+      "perfumeId": "bread-bakery"
+    },
+    {
+      "name": "Renata",
+      "date": "2016-12-12T18:25:43",
+      "rating": 2,
+      "comments": "Não foi muito agradável ao nosso paladar, e eu e meu esposo no outro dia passamos super mal. Pode até ter sido outra coisa, mas...",
+      "perfumeId": "bread-bakery"
+    },
+    {
+      "name": "Renata",
+      "date": "2016-12-12T18:25:43",
+      "rating": 5,
+      "comments": "Nunca deixou na mão, comida sempre deliciosa.",
+      "perfumeId": "bread-bakery"
+    },
+    {
+      "name": "Daniela",
+      "date": "2017-01-23T18:25:43",
+      "rating": 4,
+      "comments": "Sanduíche muito bom! Já pedi diversas vezes sempre bom!",
+      "perfumeId": "burger-house"
+    },
+    {
+      "name": "Laila",
+      "date": "2017-02-02T18:25:43",
+      "rating": 5,
+      "comments": "Melhor hambúrguer que já provei. Vai ser difícil voltar para mc e bk",
+      "perfumeId": "burger-house"
+    },
+    {
+      "name": "Suzana",
+      "date": "2016-12-12T18:25:43",
+      "rating": 3.5,
+      "comments": "Meu sanduíche chegou frio e todo desmontado =\\",
+      "perfumeId": "burger-house"
+    },
+    {
+      "name": "Eric",
+      "date": "2017-01-23T18:25:43",
+      "rating": 4.5,
+      "comments": "Excelente opção! Recomendo!",
+      "perfumeId": "coffee-corner"
+    },
+    {
+      "name": "Amanda",
+      "date": "2017-02-02T18:25:43",
+      "rating": 2.5,
+      "comments": "Demorou muito e o café veio gelado",
+      "perfumeId": "coffee-corner"
+    },
+    {
+      "name": "Carla",
+      "date": "2016-12-12T18:25:43",
+      "rating": 4.8,
+      "comments": "Tudo perfeito. Entrega, embalagem, comida. Resultado? Melhor custo beneficio",
+      "perfumeId": "coffee-corner"
+    },
+    {
+      "name": "Rodrigo",
+      "date": "2016-12-12T18:25:43",
+      "rating": 4,
+      "comments": "Muito rápida a entrega, mas é caro.",
+      "perfumeId": "coffee-corner"
+    },
+    {
+      "name": "André",
+      "date": "2016-12-12T18:25:43",
+      "rating": 4.5,
+      "comments": "Excelente como sempre!",
+      "perfumeId": "coffee-corner"
+    },
+    {
+      "name": "João",
+      "date": "2017-01-23T18:25:43",
+      "rating": 5,
+      "comments": "Excelente. Fiz o pedido com outro endereço e quando vi o erro liguei avisando. O motoqueiro cortou a cidade todinha e a comida ainda chegou quentinha (e deliciosa). Estou sempre pedindo e recomendando",
+      "perfumeId": "green-food"
+    },
+    {
+      "name": "Marcelo",
+      "date": "2017-02-02T18:25:43",
+      "rating": 4.5,
+      "comments": "Chegou muito rápido, antes mesmo da previsão",
+      "perfumeId": "green-food"
+    },
+    {
+      "name": "Fatinha",
+      "date": "2017-01-23T18:25:43",
+      "rating": 2,
+      "comments": "Ñ gostei dos sabores q pedi e achei o preço muito elevado",
+      "perfumeId": "ice-cream"
+    },
+    {
+      "name": "Lucas",
+      "date": "2017-02-02T18:25:43",
+      "rating": 2.5,
+      "comments": "Esperar 1:45hr pra receber o pedido é INACEITÁVEL",
+      "perfumeId": "ice-cream"
+    },
+    {
+      "name": "Jacira",
+      "date": "2017-02-01T18:25:43",
+      "rating": 4.5,
+      "comments": "Veio OK!",
+      "perfumeId": "ice-cream"
+    },
+    {
+      "name": "Ana",
+      "date": "2017-01-23T18:25:43",
+      "rating": 5,
+      "comments": "Rápido e sempre uma delicia!! Ja pedi 3x e sempre veio rapido e tudo certinho.",
+      "perfumeId": "tasty-treats"
+    },
+    {
+      "name": "Larissa",
+      "date": "2017-02-02T18:25:43",
+      "rating": 2.5,
+      "comments": "A taxa de entrega poderia ser mais barata.",
+      "perfumeId": "tasty-treats"
+    },
+    {
+      "name": "Jarbas",
+      "date": "2016-12-15T18:25:43",
+      "rating": 4.7,
+      "comments": "Excelente e chegou muito rápido!",
+      "perfumeId": "tasty-treats"
+    },
+    {
+      "name": "Rafaela",
+      "date": "2017-01-12T18:25:43",
+      "rating": 5,
+      "comments": "Chegou rápido e perfeito!",
+      "perfumeId": "tasty-treats"
+    },
+    {
+      "name": "Julia",
+      "date": "2016-12-12T18:25:43",
+      "rating": 1.5,
+      "comments": "Sempre gostei muito dos pedidos que eu fiz, mas dessa vez foi péssimo e decepcionou muito. Demorou 30min a mais pra chegar do que o tempo máximo esperado.",
+      "perfumeId": "tasty-treats"
+    },
+    {
+      "name": "Marília",
+      "date": "2016-12-20T18:25:43",
+      "rating": 4.5,
+      "comments": "Taxa de entrega bastante elevada e precisa colocar no app se a pessoa quer porção adicional de algo (calda, crocante etc)",
+      "perfumeId": "tasty-treats"
+    }
+  ],
+  "orders": []
+}
